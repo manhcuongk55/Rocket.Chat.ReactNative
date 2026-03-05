@@ -82,7 +82,7 @@
 		"jsrsasign": "11.0.0",
 		"lodash": "4.17.21",
 		"mitt": "3.0.1",
-		"pretty-bytes": "5.6.0",
+		"pretty-bytes": "7.1.0",
 		"react": "19.0.0",
 		"react-hook-form": "7.34.2",
 		"react-native": "0.79.4",
