@@ -8,6 +8,7 @@ import { defaultHeader, themedHeader } from '../lib/methods/helpers/navigation';
 import Sidebar from '../views/SidebarView';
 // Chats Stack
 import RoomView from '../views/RoomView';
+import AgentChatView from '../views/AgentChatView';
 import RoomsListView from '../views/RoomsListView';
 import RoomActionsView from '../views/RoomActionsView';
 import RoomInfoView from '../views/RoomInfoView';
@@ -154,6 +155,7 @@ const ChatsStackNavigator = () => {
 					animation: isIOS ? 'default' : 'none'
 				}}
 			/>
+			<ChatsStack.Screen name='AgentChatView' component={AgentChatView} />
 		</ChatsStack.Navigator>
 	);
 };
