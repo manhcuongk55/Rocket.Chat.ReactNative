@@ -8695,10 +8695,10 @@ expo-font@~13.3.1:
   dependencies:
     fontfaceobserver "^2.1.0"
 
-expo-haptics@14.1.3:
-  version "14.1.3"
-  resolved "https://registry.yarnpkg.com/expo-haptics/-/expo-haptics-14.1.3.tgz#d0d195b7a96d063f1f4d152a191596d2e03a24d9"
-  integrity sha512-463Frhn8Lf3qG7I05MjPWRTo0EmcE7GXVzXzv+Mg/pPMo7QQCzzYheSYbrpFzJLfvDIKVqwnHZMauoVMD9/X0A==
+expo-haptics@55.0.8:
+  version "55.0.8"
+  resolved "https://registry.yarnpkg.com/expo-haptics/-/expo-haptics-55.0.8.tgz#9ccf3527f4622d5e267a7820da43075a257777b1"
+  integrity sha512-yVR6EsQwl1WuhFITc0PpfI/7dsBdjK/F2YA8xB80UUW9iTa+Tqz21FpH4n/vtbargpzFxkhl5WNYMa419+QWFQ==
 
 expo-image@^2.3.2:
   version "2.3.2"
