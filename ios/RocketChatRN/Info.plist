@@ -5,7 +5,7 @@
 	<key>IS_OFFICIAL</key>
 	<false/>
 	<key>AppGroup</key>
-	<string>group.ios.chat.rocket</string>
+	<string>group.com.sotatek.rocketchat</string>
 	<key>bugsnag</key>
 	<dict>
 		<key>apiKey</key>
@@ -49,7 +49,7 @@
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>KeychainGroup</key>
-	<string>$(AppIdentifierPrefix)chat.rocket.reactnative</string>
+	<string>$(AppIdentifierPrefix)com.sotatek.rocketchat</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>googlechrome</string>
