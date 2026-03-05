@@ -11,6 +11,7 @@ import RoomView from '../views/RoomView';
 import AgentChatView from '../views/AgentChatView';
 import RealEstateChatView from '../views/RealEstateChatView';
 import CryptoWalletView from '../views/CryptoWalletView';
+import TradingBotView from '../views/TradingBotView';
 import RoomsListView from '../views/RoomsListView';
 import RoomActionsView from '../views/RoomActionsView';
 import RoomInfoView from '../views/RoomInfoView';
@@ -160,6 +161,7 @@ const ChatsStackNavigator = () => {
 			<ChatsStack.Screen name='AgentChatView' component={AgentChatView} />
 			<ChatsStack.Screen name='RealEstateChatView' component={RealEstateChatView} />
 			<ChatsStack.Screen name='CryptoWalletView' component={CryptoWalletView} />
+			<ChatsStack.Screen name='TradingBotView' component={TradingBotView} />
 		</ChatsStack.Navigator>
 	);
 };

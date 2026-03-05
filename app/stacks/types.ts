@@ -188,6 +188,7 @@ export type ChatsStackParamList = {
 	AgentChatView: undefined;
 	RealEstateChatView: undefined;
 	CryptoWalletView: undefined;
+	TradingBotView: undefined;
 };
 
 export type ProfileStackParamList = {
